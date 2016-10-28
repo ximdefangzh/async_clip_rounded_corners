@@ -1,0 +1,2 @@
+# async_clip_rounded_corners
+异步剪切圆角图片，为提高性能，不使用cornerRadious，已通过模拟器color blended Layers测试，适用于复杂的滚动表格视图
